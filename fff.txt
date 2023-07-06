@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "Name": "Reshad Noor",
+    "RecipeName":"Biriyani",
+    "JobTitle": "Google LLC",
+    "image": "https://i.ibb.co/TqtrGqj/21032869-100627940675064-3661134783735741837-n.jpg",
+    "coverImage": "https://i.ibb.co/Lxv3srD/Whats-App-Image-2023-02-13-at-8-19-54-PM.jpg",
+    "hashTag": "#beginner #programming",
+    "salary": "100k-130k",
+    "Address": "Dhaka Bangladesh",
+    "jobType": ["Remote"],
+    "Description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "JobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "EducationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "2-3 Years in this field.",
+    "Phone": "01750-00 00 00",
+    "Email": "info@gmail.com",
+    "contactAddress": " Dhanmondi 32 Sukrabad Dhaka Bangladesh",
+    "NumbersOfRecipes":"6",
+    "likes":"10",
+"ingredients ":"Rice, Seddho chaal, Parboiled rice, basic, Gobindobhog rice, expert, Basmati rice, ninja.",
+"cookingMethod":"DAALNA : Mixed vegetables or eggs, cooked in a medium thick gravy seasoned with ground spices, especially garom masalla and a dash of ghee.",
+"rating":"5 star"
+
+
+  },
+  {
+    "id": 2,
+    "Name": "Mushfiqur Rahman",
+"RecipeName":"Biriyani",
+    "JobTitle": "Netflix",
+    "image": "https://i.ibb.co/FDdNYwr/316533181-2597456383730473-4023653555642815349-n.jpg",
+    "coverImage": "https://i.ibb.co/GFkjD0W/97-1.jpg",
+    "hashTag": "#beginner #programming",
+    "salary": "110k-130k",
+    "Address": "Dhaka Bangladesh",
+    "jobType": ["Remote", "Full Time"],
+    "Description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "JobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "EducationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "3-4 Years in this field.",
+    "Phone": "01750-00 00 00",
+    "Email": "info@gmail.com",
+    "contactAddress": " Dhanmondi 32 Sukrabad Dhaka Bangladesh",
+    "NumbersOfRecipes":"6",
+    "likes":"10",
+"ingredients ":"Rice, Seddho chaal, Parboiled rice, basic, Gobindobhog rice, expert, Basmati rice, ninja.",
+"cookingMethod":"DAALNA : Mixed vegetables or eggs, cooked in a medium thick gravy seasoned with ground spices, especially garom masalla and a dash of ghee.",
+"rating":"5 star"
+  },
+  {
+    "id": 3,
+    "Name": "Tusher Imran",
+    "JobTitle": "Tesla",
+"RecipeName":"Biriyani",
+    "image": "https://i.ibb.co/4K096hJ/chef1.jpg",
+    "coverImage": "https://i.ibb.co/2qXPgmw/Whats-App-Image-2023-03-26-at-9-27-53-PM.jpg",
+    "hashTag": "#beginner #programming",
+    "salary": "100k-120k",
+    "Address": "Dhaka Bangladesh",
+    "jobType": ["Full Time"],
+    "Description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "JobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "EducationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "6-7 Years in this field.",
+    "Phone": "01750-00 00 00",
+    "Email": "info@gmail.com",
+    "contactAddress": " Dhanmondi 32 Sukrabad Dhaka Bangladesh",
+    "NumbersOfRecipes":"6",
+    "likes":"10",
+"ingredients ":"Rice, Seddho chaal, Parboiled rice, basic, Gobindobhog rice, expert, Basmati rice, ninja.",
+"cookingMethod":"DAALNA : Mixed vegetables or eggs, cooked in a medium thick gravy seasoned with ground spices, especially garom masalla and a dash of ghee.",
+"rating":"5 star"
+  },
+  {
+    "id": 4,
+    "Name": "Tarin Rahman",
+    "JobTitle": "Google LLC",
+"RecipeName":"Biriyani",
+    "image": "https://i.ibb.co/wBksxjp/IMG-3566.jpg",
+    "coverImage": "https://i.ibb.co/tKyYD4x/Whats-App-Image-2023-02-14-at-10-01-18-AM.jpg",
+    "hashTag": "#beginner #programming",
+    "salary": "120k-150k",
+    "Address": "Dhaka Bangladesh",
+    "jobType": ["Remote", "Full Time"],
+    "Description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "JobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "EducationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "5-8 Years in this field.",
+    "Phone": "01750-00 00 00",
+    "Email": "info@gmail.com",
+    "contactAddress": " Dhanmondi 32 Sukrabad Dhaka Bangladesh",
+    "NumbersOfRecipes":"6",
+    "likes":"10",
+"ingredients ":"Rice, Seddho chaal, Parboiled rice, basic, Gobindobhog rice, expert, Basmati rice, ninja.",
+"cookingMethod":"DAALNA : Mixed vegetables or eggs, cooked in a medium thick gravy seasoned with ground spices, especially garom masalla and a dash of ghee.",
+"rating":"5 star"
+  },
+  {
+    "id": 5,
+    "Name": "Nahiyan Noor",
+    "JobTitle": "Microsoft",
+"RecipeName":"Biriyani",
+    "image": "https://i.ibb.co/HTVK6gN/Whats-App-Image-2022-10-12-at-2-21-41-PM.jpg",
+    "coverImage": "https://i.ibb.co/tKyYD4x/Whats-App-Image-2023-02-14-at-10-01-18-AM.jpg",
+    "hashTag": "#beginner #programming",
+    "salary": "100k-130k",
+    "Address": "Dhaka Bangladesh",
+    "jobType": ["Remote", "Full Time"],
+    "Description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "JobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "EducationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "6-7 Years in this field.",
+    "Phone": "01750-00 00 00",
+    "Email": "info@gmail.com",
+    "contactAddress": " Dhanmondi 32 Sukrabad Dhaka Bangladesh",
+    "NumbersOfRecipes":"6",
+    "likes":"10",
+"ingredients ":"Rice, Seddho chaal, Parboiled rice, basic, Gobindobhog rice, expert, Basmati rice, ninja.",
+"cookingMethod":"DAALNA : Mixed vegetables or eggs, cooked in a medium thick gravy seasoned with ground spices, especially garom masalla and a dash of ghee.",
+"rating":"5 star"
+  },
+  {
+    "id": 6,
+    "Name": "Nishan Rahman",
+    "JobTitle": "Dell",
+"RecipeName":"Biriyani",
+    "image": "https://i.ibb.co/JyMysX6/Whats-App-Image-2022-10-25-at-7-34-59-PM.jpg",
+    "coverImage": "https://i.ibb.co/tKyYD4x/Whats-App-Image-2023-02-14-at-10-01-18-AM.jpg",
+    "hashTag": "#beginner #programming",
+    "salary": "90k-130k",
+    "Address": "Dhaka Bangladesh",
+    "jobType": ["Remote", "Full Time"],
+    "Description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "JobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "EducationalRequirements": "Bachelor degree to complete any reputational university.",
+    "Experiences": "2-3 Years in this field.",
+    "Phone": "01750-00 00 00",
+    "Email": "info@gmail.com",
+    "contactAddress": " Dhanmondi 32 Sukrabad Dhaka Bangladesh",
+    "NumbersOfRecipes":"6",
+    "likes":"10",
+"ingredients ":"Rice, Seddho chaal, Parboiled rice, basic, Gobindobhog rice, expert, Basmati rice, ninja.",
+"cookingMethod":"DAALNA : Mixed vegetables or eggs, cooked in a medium thick gravy seasoned with ground spices, especially garom masalla and a dash of ghee.",
+"rating":"5 star"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+recepie
+
+https://i.ibb.co/tsLWKNR/87881244-118979269684696-8527202024796717056-n.jpg
+https://i.ibb.co/5GTY6q9/89257382-120838276165462-7935662797663240192-n.jpg
+https://i.ibb.co/yg17xQY/89260200-124424499140173-5366430364971565056-n.jpg
+https://i.ibb.co/dtxJbwb/89603808-123704455878844-8944295992652464128-n.jpg
+https://i.ibb.co/25J7GRf/122470542-191081495807806-3350875807264421810-n.jpg
+
+
+
+chef
+
+https://i.ibb.co/TqtrGqj/21032869-100627940675064-3661134783735741837-n.jpg
+https://i.ibb.co/FDdNYwr/316533181-2597456383730473-4023653555642815349-n.jpg
+https://i.ibb.co/4K096hJ/chef1.jpg
+https://i.ibb.co/wBksxjp/IMG-3566.jpg
+https://i.ibb.co/HTVK6gN/Whats-App-Image-2022-10-12-at-2-21-41-PM.jpg
+https://i.ibb.co/JyMysX6/Whats-App-Image-2022-10-25-at-7-34-59-PM.jpg
